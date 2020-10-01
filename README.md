@@ -209,7 +209,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 ## Perl
 
-- [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
+- [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager
 
 ## PHP
 
